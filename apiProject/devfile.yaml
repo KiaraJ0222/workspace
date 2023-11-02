@@ -8,7 +8,7 @@ projects:
       checkoutFrom:
         revision: main
       remotes:
-        origin: 'git@github.com:KiaraJ0222/workspace.git'
+        origin: https://github.com/KiaraJ0222/workspace.git'
     name: sample-api
 components:
     - name: zosconnect
